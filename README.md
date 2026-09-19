@@ -7,6 +7,4 @@
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Ku6epXBOCTuK) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Ku6epXBOCTuK_feed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ku6epXBOCTuK@gmail.com) 
 
-telegram
-
 ![Девушка и компьютер](https://raw.githubusercontent.com/Ku6epXBOCTuK/Ku6epXBOCTuK/refs/heads/main/Girl%20and%20pc.gif)
