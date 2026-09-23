@@ -38,7 +38,8 @@ Passionate about creating fast, lightweight, and delightful user experiences, fr
 
 Special thanks to the organizations providing infrastructure and tooling support:
 
-- [<img src="assets/BrowserStack.svg" alt="BrowserStack" width="16"> **BrowserStack**](https://www.browserstack.com) — Providing robust cross-browser testing infrastructure.
+- <img src="assets/BrowserStack.svg" alt="BrowserStack" width="16"> [**BrowserStack**](https://www.browserstack.com) — Providing robust cross-browser testing infrastructure.
+- <img src="assets/Vercel-black.svg#gh-light-mode-only" alt="Vercel" width="16"><img src="assets/Vercel-white.svg#gh-dark-mode-only" alt="Vercel" width="16"> [**Vercel**](https://vercel.com) — Hosting and deploying my projects with ease.
 
 Want your logo here? [Contact me](mailto:Ku6epXBOCTuK@gmail.com)
 
